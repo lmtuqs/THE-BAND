@@ -152,7 +152,7 @@ overflow: hidden;
 #slider{
     margin-top: 46.5px;
     padding-top:50% ;
-    background: url(/creatwebband-w3school/assets/img/slider/chicago.jpg) top center / cover no-repeat ;
+    background: url(/assets/img/slider/chicago.jpg) top center / cover no-repeat ;
     position: relative;
     max-width: 100%;
 }
