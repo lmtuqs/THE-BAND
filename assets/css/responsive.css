@@ -122,3 +122,14 @@
     }
 
 }
+
+/* mobile small screen < 350px */
+
+@media (max-width:350px){
+
+    .footer-icon a{
+        font-size: 12px;
+        padding: 5px;
+    }
+    
+}
